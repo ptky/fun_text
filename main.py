@@ -2,7 +2,7 @@
 import time 
 import colorama
 from colorama import Fore,Back,Style
-abc = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", " ","'",'"',"?","!"]
+abc = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", " ",",","'",'"',"?","!"]
 szo = []
 def get_info():
      kerdes = input("Enter your word: ")

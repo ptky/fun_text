@@ -25,7 +25,7 @@ def text(text=kerdes):
                szo.append(n)
                print(space,"".join(szo),flush=True)
                print(Fore.CYAN + (hossz+4)*"-")
-               time.sleep(0.05)
+               time.sleep(0.03)
                if n == text[calc]:
                     calc+=1
                     betuk+=n
